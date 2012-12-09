@@ -33,3 +33,12 @@ Support for typesetting Tibetan.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780456
+- Update to latest release.
+- Import texlive-collection-langtibetan
+- Import texlive-collection-langtibetan
+
