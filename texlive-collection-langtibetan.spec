@@ -7,7 +7,7 @@
 Name:		texlive-collection-langtibetan
 Epoch:		1
 Version:	20120224
-Release:	8
+Release:	9
 Summary:	Tibetan
 Group:		Publishing
 URL:		http://tug.org/texlive
